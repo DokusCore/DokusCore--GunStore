@@ -21,9 +21,7 @@ set up a DokusCore server, see the following video: [Installation video](https:/
 # Installation
 Simply extract the `DokusCore--GunStore` into your `resources` folder, <br>
 and start it via `ensure DokusCore--GunStore`. Then go to the Modules.lua <br>
-file of `DokusCore` itself and at `_Modules = { GunStore }` set it to `true`. <br>
-If left to `false` the core will create its own character on ID 1 and not the <br>
-multi characters plugin.
+file of `DokusCore` itself and at `_Modules = { GunStore }` set it to `true`.
 
 ---
 # Plugin Information
